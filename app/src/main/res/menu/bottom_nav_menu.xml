@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/cameraFragment"
+    android:title="camera"
+    android:icon="@drawable/camera"/>
+    <item
+        android:id="@+id/galleryNav"
+        android:title="gallery"
+        android:icon="@drawable/gallery"/>
+    <item
+        android:id="@+id/aboutFragment"
+        android:title="star"
+        android:icon="@drawable/star"/>
+
+</menu>

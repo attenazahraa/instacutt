@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InstaCutt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview1">TextView</string>
+    <string name="switchText">اشتراک گذاری ذر اینستاگرام؟</string>
+    <string name="switch_share_off">غیرفعال</string>
+    <string name="switch_share_on">فعال</string>
+    <string name="email_text_about">ایمیل:</string>
+    <string name="email_text_adress">alinarooi45@gmail.com</string>
+    <string name="PhoneNumber_text_about">شماره همراه:</string>
+    <string name="Number_text_about_">09045350092</string>
+    <string name="rate_us_text">با 5 ستاره از ما حمایت کنید!</string>
+    <string name="rate_us_button_text">امتیازدهی</string>
+    <string name="connect_us">با ما در ارتباط باشید!</string>
+    <string name="my_name_about">علی ناروئی هستم!</string>
+    <string name="my_info">برنامه نویس اندروید و طراح گرافیک</string>
+    <string name="connect_tous">اماده شنیدن نظرات شما هستم…</string>
+    <string name="textTest">alkfririitjwojvjejvjrgjgojreghigoin/nqwourijeio[efiouiouefioeuioeuoieuoieufioeun/nrt[u9ioja;;kfirjuv;jefeikofjjifjfdfgljggjkgjkhgdjkhgkjhs</string>
+    <string name="loadingImagesText">"درحال بارگذاری تصاویر "</string>
+
+</resources>
